@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: PyRTF
+Version: 0.45
+Summary: PyRTF - Rich Text Format Document Generation
+Home-page: http://pyrtf.sourceforge.net/
+Author: Simon Cusack
+Author-email: scusack@sourceforge.net
+License: http://www.gnu.org/licenses/gpl.html
+Description: PyRTF is a pure python module for the efficient generation of rich text format
+        documents. Supports styles, tables, cell merging, jpg and png images and tries
+        to maintain compatibility with as many RTF readers as possible.
+Keywords: RTF,Rich Text,Rich Text Format,documentation,reports
+Platform: Any
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Text Editors :: Text Processing
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
